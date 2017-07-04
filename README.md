@@ -4,6 +4,8 @@
 ### 个人修改ios-sim插件,用以解决官方插件启动run ios 报错,replace undefined问题,下面的说明为原来md文件,并未修改;
 
 =======
+
+
 [![Build status](https://ci.appveyor.com/api/projects/status/0kw833771uu622fs?svg=true)](https://ci.appveyor.com/project/shazron/ios-sim)
 [![Build Status](https://travis-ci.org/phonegap/ios-sim.svg?branch=master)](https://travis-ci.org/phonegap/ios-sim)
 
